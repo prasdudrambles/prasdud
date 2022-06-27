@@ -1,7 +1,7 @@
-Hi, I’m @prasdu 
+Hi, I’m @prasdud
 I’m interested in making software and breaking said software
 I’m currently learning
-How to reach me i dont have social media so just ping me here
+How to reach - ping on github
 
 <!---
 prasdud/prasdud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
