@@ -1,7 +1,6 @@
-Hi, I’m @prasdud
-I’m interested in making software and breaking said software
-I’m currently learning
-How to reach - ping on github
+Hi, I’m prasdud
+I’m interested in making stuff.
+You can reach me at prasdud@protonmail.com
 
 <!---
 prasdud/prasdud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
